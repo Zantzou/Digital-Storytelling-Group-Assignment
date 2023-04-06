@@ -49,119 +49,116 @@
 <h3> 2.8. Is it possible to identify intermedial texts in the story?</h3>
 <p> Θα μπορούσαν να υπάρχουν για επεξηγηματικό σκοπό </p>
 
-3. Worldbuilding 
-3.1. When the story occurs?
-Διαδραματίζεται στο παρόν και επικεντρώνεται σε διαφορετικές ιστορίες και οπτικές που δίνει το κάθε άτομο στο ίδιο αντικείμενο (ο αναπτήρας παίρνει ζωή από τις δικές μας δράσεις)
+<h2> 3. Worldbuilding </h2>
 
-3.2. Which is the central world where the project is set?
-	Ο κεντρικός κόσμος της ταινίας, είναι η Σύρος, όπου ο χαρακτήρας μας “αναπτήρας”, αλλάζει τόπο  και χρηστικότητα ανάλογα με το εξωτερικό του περιβάλλον και τους χρήστες του
+<h3> 3.1. When the story occurs?</h3>
+<p>Διαδραματίζεται στο παρόν και επικεντρώνεται σε διαφορετικές ιστορίες και οπτικές που δίνει το κάθε άτομο στο ίδιο αντικείμενο (ο αναπτήρας παίρνει ζωή από τις δικές μας δράσεις) </p>
 
-3.3. Is it a fictional world, the real world or a mixture of both? 
- Είναι στο πραγματικό κόσμο
+<h3>3.2. Which is the central world where the project is set?</h3>
+<p> Ο κεντρικός κόσμος της ταινίας, είναι η Σύρος, όπου ο χαρακτήρας μας “αναπτήρας”, αλλάζει τόπο  και χρηστικότητα ανάλογα με το εξωτερικό του περιβάλλον και τους χρήστες του</p>
 
-3.4. How it is presented geographically?
-       Θα γυριστεί στη Σύρο σε μέρη που συναναστρεφόμαστε στην καθημερινότητα μας 
+<h3> 3.3. Is it a fictional world, the real world or a mixture of both? </h3>
+<p> Είναι στο πραγματικό κόσμο </p>
 
-3.5. How the world looks?
-       Θα θέλαμε να έχει πιο απλό χαρακτήρα και να δείξουμε τη διάρκεια όλης της ημέρας. Ίσως οι φιγούρες και το περιβάλλον να βρίσκονται σε δεύτερο επίπεδο και να είναι λίγο πιο “θολά” 
+<h3> 3.4. How it is presented geographically?</h3>
+<p> Θα γυριστεί στη Σύρο σε μέρη που συναναστρεφόμαστε στην καθημερινότητα μας </p>
 
-3.6. What challenges, dangers, or delights are inherent to this world?
-       Παρουσιάζει τη καθημερινότητα που μπορεί να είναι διαφορετική από άτομο σε άτομο χρησιμοποιώντας το ίδιο αντικείμενο (αναπτήρα). Αυτή η πραγματικότητα μπορεί να θεωρείται από κάποιους κανονική, ενώ από κάποιους άλλους σκληρή. 
+<h3> 3.5. How the world looks?</h3>
+<p> Θα θέλαμε να έχει πιο απλό χαρακτήρα και να δείξουμε τη διάρκεια όλης της ημέρας. Ίσως οι φιγούρες και το περιβάλλον να βρίσκονται σε δεύτερο επίπεδο και να είναι λίγο πιο “θολά” </p>
 
-3.7. Is the storyworld big enough to support expansions? 
-	Ο κόσμος είναι τόσο “μεγάλος” όσο και ο δικός μας. Ένα τόσο μικρό αντικείμενο (αναπτήρας) μπορεί να “ζήσει” πολλά περισσότερα από ό,τι ζούμε και εμείς οι ίδιοι σε μια μέρα.
+<h3> 3.6. What challenges, dangers, or delights are inherent to this world?</h3>
+<p> Παρουσιάζει τη καθημερινότητα που μπορεί να είναι διαφορετική από άτομο σε άτομο χρησιμοποιώντας το ίδιο αντικείμενο (αναπτήρα). Αυτή η πραγματικότητα μπορεί να θεωρείται από κάποιους κανονική, ενώ από κάποιους άλλους σκληρή. </p>
 
+<h3> 3.7. Is the storyworld big enough to support expansions? </h3>
+<p> Ο κόσμος είναι τόσο “μεγάλος” όσο και ο δικός μας. Ένα τόσο μικρό αντικείμενο (αναπτήρας) μπορεί να “ζήσει” πολλά περισσότερα από ό,τι ζούμε και εμείς οι ίδιοι σε μια μέρα. </p>
 
-4. Characters 
-4.1. Who are the primary and secondary characters of the story? 
-       Ο βασικός χαρακτήρας είναι ο ΑΝΑΠΤΗΡΑΣ προφανώς δεν ακολουθεί συναισθήματα, αλλά τα συναισθήματα ακολουθούν αυτό. 
+<h2> 4. Characters </h2>
 
-       Σαν δευτερεύοντες χαρακτήρες, είναι οι χρήστες του αναπτήρα που είναι πολλαπλοί, άρα τα συναισθήματα και οι καταστάσεις αλλάζουν συνεχώς.  
+<h3> 4.1. Who are the primary and secondary characters of the story? </h3>
+<p>----- Ο βασικός χαρακτήρας είναι ο ΑΝΑΠΤΗΡΑΣ προφανώς δεν ακολουθεί συναισθήματα, αλλά τα συναισθήματα ακολουθούν αυτό. <br>
+       Σαν δευτερεύοντες χαρακτήρες, είναι οι χρήστες του αναπτήρα που είναι πολλαπλοί, άρα τα συναισθήματα και οι καταστάσεις αλλάζουν συνεχώς.  </p>
 
-4.2. Does the project have any spin-offs15? If so, who are the spin-offs’ protagonists?
-	Δεν έχουμε κάποιο σχέδιο για spin-offs15 μέχρι στιγμής, μελλοντικά θα μπορούσε να έχει αλλά δεν έχουμε σκεφτεί σε ποιά μορφή.
+<h3> 4.2. Does the project have any spin-offs15? If so, who are the spin-offs’ protagonists?</h3>
+<p> Δεν έχουμε κάποιο σχέδιο για spin-offs15 μέχρι στιγμής, μελλοντικά θα μπορούσε να έχει αλλά δεν έχουμε σκεφτεί σε ποιά μορφή. </p>
 
-4.3. Can the storyworld be considered a primary character of its own? 
-	Θα μπορούσε να ταυτιστεί με κάποια ιστορία, από αυτές που θα προβληθούν
+<h3> 4.3. Can the storyworld be considered a primary character of its own? </h3>
+<p> Θα μπορούσε να ταυτιστεί με κάποια ιστορία, από αυτές που θα προβληθούν </p>
 
-4.4. Can the audience be considered a character as well?
-       Προφανώς το κοινό θα μπορούσε να έχει τη θέση του χαρακτήρα, αλλά του δευτερεύοντα χαρακτήρα. (δηλαδή του χρήστη)
+<h3> 4.4. Can the audience be considered a character as well? </h3>
+<p> Προφανώς το κοινό θα μπορούσε να έχει τη θέση του χαρακτήρα, αλλά του δευτερεύοντα χαρακτήρα. (δηλαδή του χρήστη)<p>
 
-4.5. Are there non-player characters16 (NPCs) in this project? If so, who are they and what kind of role do they play (allies, adversaries, helper figures, etc.)? 
-	Υπάρχουν χαρακτήρες και όχι παίκτες στην ταινία. Αυτοί καθορίζουν την πορεία αλλά δεν επικεντρώνεται σε αυτούς η ιστορία.
+<h3> 4.5. Are there non-player characters16 (NPCs) in this project? If so, who are they and what kind of role do they play (allies, adversaries, helper figures, etc.)?</h3> 
+<p> Υπάρχουν χαρακτήρες και όχι παίκτες στην ταινία. Αυτοί καθορίζουν την πορεία αλλά δεν επικεντρώνεται σε αυτούς η ιστορία.</p>
 
+<h2> 5. Extensions </h2>
+<h3>5.1. How many extensions does the project have?</h3>
+<p> Το βασικό μας project είναι η ταινία μικρού μήκους. Σίγουρα θα υπάρχει και κάποιο μικρό extension, ίσως κάποιο βιβλιαράκι που θα έχει όλες τις ιστορίες μαζεμένες + και άλλες σε συνδυασμό με κάποια illustations.</p>
 
-5. Extensions 
-5.1. How many extensions does the project have?
-       Το βασικό μας project είναι η ταινία μικρού μήκους. Σίγουρα θα υπάρχει και κάποιο μικρό extension, ίσως κάποιο βιβλιαράκι που θα έχει όλες τις ιστορίες μαζεμένες + και άλλες σε συνδυασμό με κάποια illustations.
+<h3> 5.2. Are the extensions adaptations (the intersemiotic translation from one system to another) or expansions of the narrative through various media? </h3>
+<p> Το extension θα μπορούσε να θεωρηθεί expansion της ταινίας, αφού θα κουβαλάει κομμάτια της ταινίας και τα συνεχίζει με δικό του πιο διασκεδαστικό (ίσως και χιουμοριστικό) τρόπο..</p>
 
-5.2. Are the extensions adaptations (the intersemiotic translation from one system to another) or expansions of the narrative through various media?
-       Το extension θα μπορούσε να θεωρηθεί expansion της ταινίας, αφού θα κουβαλάει κομμάτια της ταινίας και τα συνεχίζει με δικό του πιο διασκεδαστικό (ίσως και χιουμοριστικό) τρόπο..
+<h3> 5.3. Is each extension canonical? Does it enrich the story? </h3>
+<p> Θα είναι για να εμπλουτίσει και να επεξηγήσει περισσότερο την ιστορία και να δείξει τον τρόπο σκέψης και τα συναισθήματα με τη βοήθεια μικρού κειμένου και illustration. ***</p>
 
-5.3. Is each extension canonical? Does it enrich the story?
-	Θα είναι για να εμπλουτίσει και να επεξηγήσει περισσότερο την ιστορία και να δείξει τον τρόπο σκέψης και τα συναισθήματα με τη βοήθεια μικρού κειμένου και illustration. ***
+<h3> 5.4. Does each extension maintain the original characteristics of the world? </h3>
+<p> Γενικότερα ο καθένας το αντιλαμβάνεται με το δικό του τρόπο, το κείμενο και το illustration συνδέονται με το αρχικό, αλλά μπορεί να σταθεί και μόνο του.</p>
 
-5.4. Does each extension maintain the original characteristics of the world? 
-Γενικότερα ο καθένας το αντιλαμβάνεται με το δικό του τρόπο, το κείμενο και το illustration συνδέονται με το αρχικό, αλλά μπορεί να σταθεί και μόνο του.
+<h3> 5.5. Does each extension answer questions left previously unanswered? <h3>
+<p> Πιθανόν.</p>
 
-5.5. Does each extension answer questions left previously unanswered?
-	Πιθανόν.
+<h3> 5.6. Does each extension raise new questions?</h3>
+<p> Όχι, θα μπορούσε να απαντά σε ένα αναπάντητο ερώτημα ολόκληρης της ιστορίας. Επίσης θα θέλαμε να έχει πιο διασκεδαστικό χαρακτήρα και να μην είναι τόσο ενημερωτικό.</p>
 
-5.6. Does each extension raise new questions?
-	Όχι, θα μπορούσε να απαντά σε ένα αναπάντητο ερώτημα ολόκληρης της ιστορίας. Επίσης θα θέλαμε να έχει πιο διασκεδαστικό χαρακτήρα και να μην είναι τόσο ενημερωτικό.
+<h3> 5.7. Do the extensions open up new possibilities for additional expansion? </h3>
+<p> Δε θα θέλαμε να είναι εφικτή και άλλη επέκταση. </p>
 
-5.7. Do the extensions open up new possibilities for additional expansion? 
-       Δε θα θέλαμε να είναι εφικτή και άλλη επέκταση. 
-
-5.8. Do the extensions have the ability to spread the content and also to provide the possibility to explore the narrative in-depth?  
-      Δεν είναι απαραίτητο το βιβλιαράκι να διαβαστεί αφού έχει δει κάποιος τη ταινία. Μπορεί να σταθεί και μόνο του ανεξάρτητα από τη ταινία.
+<h3> 5.8. Do the extensions have the ability to spread the content and also to provide the possibility to explore the narrative in-depth?  </h3>
+<p> Δεν είναι απαραίτητο το βιβλιαράκι να διαβαστεί αφού έχει δει κάποιος τη ταινία. Μπορεί να σταθεί και μόνο του ανεξάρτητα από τη ταινία.</p>
        
+<h2> 6. Media platforms and genres</h2>
+<h3> 6.1. What kind of media platforms (film, book, comics, games, and so forth) are involved in the project? </h3>
+<p> Περιλαμβάνει τη ταινία μικρού μήκους που είναι το βασικό στοιχείο και το βιβλιαράκι σαν δευτερεύον. </p>
 
-6. Media platforms and genres
- 6.1. What kind of media platforms (film, book, comics, games, and so forth) are involved in the project? 
-Περιλαμβάνει τη ταινία μικρού μήκους που είναι το βασικό στοιχείο και το βιβλιαράκι σαν δευτερεύον
+<h3> 6.2. Which devices (computer, game console, tablet, mobile phone, etc.) are required by the project?</h3>
+<p> Οποιαδήποτε συσκευή η οποία έχει πρόσβαση στο YouTube για την ταινία μικρού μήκους και το βιβλιαράκι δεν χρειάζεται κάποια ηλεκτρονική συσκευή (εκτός αν το κάνουμε σε ψηφιακή μορφή).</p>
 
-6.2. Which devices (computer, game console, tablet, mobile phone, etc.) are required by the project?
-	Οποιαδήποτε συσκευή η οποία έχει πρόσβαση στο YouTube για την ταινία μικρού μήκους και το βιβλιαράκι δεν χρειάζεται κάποια ηλεκτρονική συσκευή (εκτός αν το κάνουμε σε ψηφιακή μορφή).
+<h3> 6.3. How each platform is participating and contributing to the whole project? What are their functions in the project? </h3>
+<p> Χρησιμοποιώντας ηλεκτρονικά αλλά και αναλογικά μέσα, δίνουμε τη δυνατότητα σε περισσότερο κόσμο να έρθει σε επαφή με την ιστορία μας </p> 
 
-6.3. How each platform is participating and contributing to the whole project? What are their functions in the project? 
-       Χρησιμοποιώντας ηλεκτρονικά αλλά και αναλογικά μέσα, δίνουμε τη δυνατότητα σε περισσότερο κόσμο να έρθει σε επαφή με την ιστορία μας 
+<h3> 6.4. What are the distinctive characteristics of each media platform?</h3>
+<p> Το YouTube αρχικά είναι η πιο προσβάσιμη πλατφόρμα για αυτό την επιλέξαμε. Θα μπορούσαμε επίσης να στείλουμε το έργο μας σε διαγωνισμούς ώστε να μπορεί να προσεγγίσει διαφορετικό είδος κοινού.</p>
 
-6.4. What are the distinctive characteristics of each media platform?
-	Το YouTube αρχικά είναι η πιο προσβάσιμη πλατφόρμα για αυτό την επιλέξαμε. Θα μπορούσαμε επίσης να στείλουμε το έργο μας σε διαγωνισμούς ώστε να μπορεί να προσεγγίσει διαφορετικό είδος κοινού.
+<h3> 6.5. Identify problems that are specific of each medium</h3>
+<p>  Για τη δημιουργία της ταινίας χρειάζεται πολύς χρόνος και οργάνωση για να απεικονίσουμε σωστά το vision που έχουμε στο μυαλό μας. Επίσης πρέπει να χρησιμοποιήσουμε μέσα τα οποία δεν μας είναι οικεία. Για το βιβλιαράκι το δύσκολο κομμάτι είναι να το συνδέσουμε με την ταινία και να το οπτικοποιήσουμε σωστά, αλλά και να δείξουμε τα συναισθήματα μέσω των κειμένων και των illustrations. </p>
 
-6.5. Identify problems that are specific of each medium
-       Για τη δημιουργία της ταινίας χρειάζεται πολύς χρόνος και οργάνωση για να απεικονίσουμε σωστά το vision που έχουμε στο μυαλό μας. Επίσης πρέπει να χρησιμοποιήσουμε μέσα τα οποία δεν μας είναι οικεία. 
-      Για το βιβλιαράκι το δύσκολο κομμάτι είναι να το συνδέσουμε με την ταινία και να το οπτικοποιήσουμε σωστά, αλλά και να δείξουμε τα συναισθήματα μέσω των κειμένων και των illustrations. 
+<h3> 6.6. Is each medium really relevant to the project? <h/3>
+<p> Και τα 2 σχετίζονται με το project, κυρίως η ταινία. Το βιβλιαράκι έχει λίγο διαφορετικό χαρακτήρα </p>
 
-6.6. Is each medium really relevant to the project? 
-       Και τα 2 σχετίζονται με το project, κυρίως η ταινία. Το βιβλιαράκι έχει λίγο διαφορετικό χαρακτήρα
+<h3> 6.7. What is the roll-out strategy to release the platforms? </h3>
+	<p> Για τη ταινία διαφήμιση μέσα από τα μέσα κοινωνικής δικτύωσης. </p>
 
-6.7. What is the roll-out strategy to release the platforms? 
-       Για τη ταινία διαφήμιση μέσα από τα μέσα κοινωνικής δικτύωσης. 
-
-6.8. Which genres (action, adventure, detective, science fiction, fantasy, and so forth) are present in the project? 
-	Κυρίως περιπέτεια, δράση, κωμωδία και ίσως περιέχει και δράμα…
+<h3> 6.8. Which genres (action, adventure, detective, science fiction, fantasy, and so forth) are present in the project? </h3>
+<p> Κυρίως περιπέτεια, δράση, κωμωδία και ίσως περιέχει και δράμα…</p>
 
 
-7. Audience and market 
-7.1. What is the target audience of the project? Who is the intended VUP? 
-       Το περιεχόμενο μας είναι αρκετά φιλικό βέβαια με τη δημιουργία της ταινίας μπορεί να προκύψουν κάποιες σκηνές με πιο “σκληρό” περιεχομενο, οπότε θα προτείναμε να είναι για άτομα άνω των 18 ετών.  (18+)
+<h2> 7. Audience and market </h2>
+<h3> 7.1. What is the target audience of the project? Who is the intended VUP? </h3>
+<p> Το περιεχόμενο μας είναι αρκετά φιλικό βέβαια με τη δημιουργία της ταινίας μπορεί να προκύψουν κάποιες σκηνές με πιο “σκληρό” περιεχομενο, οπότε θα προτείναμε να είναι για άτομα άνω των 18 ετών.  (18+)</p> 
 
-7.2. What kind of “viewers” (real-time,reflective, and navigational) does the project attract? 
-	Το έργο μας στοχεύει και πιστεύει ότι θα προσεγγίσει πιο εναλλακτικό κόσμο.
+<h3> 7.2. What kind of “viewers” (real-time,reflective, and navigational) does the project attract? </h3>
+<p>Το έργο μας στοχεύει και πιστεύει ότι θα προσεγγίσει πιο εναλλακτικό κόσμο.</p>
 
-7.3. What kind of entertainment does the target audience enjoy?
-	Την περιπέτεια ενός αναπτήρα και την “δράση” των χρηστών γύρω από τον αναπτήρα, καθώς θα φαίνεται και η διακωμώδηση των καταστάσεων και μερικές σκληρές- δραματικές σκηνές.
+	<h3> 7.3. What kind of entertainment does the target audience enjoy?</h3>
+	<p> Την περιπέτεια ενός αναπτήρα και την “δράση” των χρηστών γύρω από τον αναπτήρα, καθώς θα φαίνεται και η διακωμώδηση των καταστάσεων και μερικές σκληρές- δραματικές σκηνές.</p> 
 
-7.4. What kind of technology/devices are people in this group involved with? 
-       Κινητά, λάπτοπ/ σταθερό υπολογιστή, ίσως και κάμερα 
+	<h3> 7.4. What kind of technology/devices are people in this group involved with? </h3>
+	<p> Κινητά, λάπτοπ/ σταθερό υπολογιστή, ίσως και κάμερα </p>
 
-7.5. Why does this project appeal to them? 
-       Ο αναπτήρας είναι ένα αντικείμενο που όλοι χρησιμοποιούμε και θέλουμε να δείξουμε τη σύνδεση των ανθρώπων μέσω αυτού του πολύ απλού αντικειμένου
+	<h3> 7.5. Why does this project appeal to them? </h3>
+      <p>  Ο αναπτήρας είναι ένα αντικείμενο που όλοι χρησιμοποιούμε και θέλουμε να δείξουμε τη σύνδεση των ανθρώπων μέσω αυτού του πολύ απλού αντικειμένου</p>
 
-7.6. Do other projects like this exist?
-	Ίσως υπάρχουν, δεν έχουμε συναντήσει κάτι τέτοιο αλλά ούτε έχουμε ψάξει.
+	<h3> 7.6. Do other projects like this exist?</h3>
+	<p> Ίσως υπάρχουν, δεν έχουμε συναντήσει κάτι τέτοιο αλλά ούτε έχουμε ψάξει.</p> 
 Σίγουρα υπάρχουν ιστορίες που ακολουθούν τη πορεία ενός αντικειμένου ή ενός χαρακτήρα με διαφορετικό τρόπο προσπαθώντας να πετύχουν διαφορετικούς στόχους 
 
 Do they succeed in achieving their purpose?
