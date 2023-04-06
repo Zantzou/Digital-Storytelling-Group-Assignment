@@ -148,112 +148,106 @@
 <h3> 7.2. What kind of “viewers” (real-time,reflective, and navigational) does the project attract? </h3>
 <p>Το έργο μας στοχεύει και πιστεύει ότι θα προσεγγίσει πιο εναλλακτικό κόσμο.</p>
 
-	<h3> 7.3. What kind of entertainment does the target audience enjoy?</h3>
-	<p> Την περιπέτεια ενός αναπτήρα και την “δράση” των χρηστών γύρω από τον αναπτήρα, καθώς θα φαίνεται και η διακωμώδηση των καταστάσεων και μερικές σκληρές- δραματικές σκηνές.</p> 
+<h3> 7.3. What kind of entertainment does the target audience enjoy?</h3>
+<p> Την περιπέτεια ενός αναπτήρα και την “δράση” των χρηστών γύρω από τον αναπτήρα, καθώς θα φαίνεται και η διακωμώδηση των καταστάσεων και μερικές σκληρές- δραματικές σκηνές.</p> 
 
-	<h3> 7.4. What kind of technology/devices are people in this group involved with? </h3>
-	<p> Κινητά, λάπτοπ/ σταθερό υπολογιστή, ίσως και κάμερα </p>
+<h3> 7.4. What kind of technology/devices are people in this group involved with? </h3>
+<p> Κινητά, λάπτοπ/ σταθερό υπολογιστή, ίσως και κάμερα </p>
 
-	<h3> 7.5. Why does this project appeal to them? </h3>
-      <p>  Ο αναπτήρας είναι ένα αντικείμενο που όλοι χρησιμοποιούμε και θέλουμε να δείξουμε τη σύνδεση των ανθρώπων μέσω αυτού του πολύ απλού αντικειμένου</p>
+<h3> 7.5. Why does this project appeal to them? </h3>
+<p>  Ο αναπτήρας είναι ένα αντικείμενο που όλοι χρησιμοποιούμε και θέλουμε να δείξουμε τη σύνδεση των ανθρώπων μέσω αυτού του πολύ απλού αντικειμένου</p>
 
-	<h3> 7.6. Do other projects like this exist?</h3>
-	<p> Ίσως υπάρχουν, δεν έχουμε συναντήσει κάτι τέτοιο αλλά ούτε έχουμε ψάξει.</p> 
-Σίγουρα υπάρχουν ιστορίες που ακολουθούν τη πορεία ενός αντικειμένου ή ενός χαρακτήρα με διαφορετικό τρόπο προσπαθώντας να πετύχουν διαφορετικούς στόχους 
+<h3> 7.6. Do other projects like this exist?</h3>
+<p> Ίσως υπάρχουν, δεν έχουμε συναντήσει κάτι τέτοιο αλλά ούτε έχουμε ψάξει. Σίγουρα υπάρχουν ιστορίες που ακολουθούν τη πορεία ενός αντικειμένου ή ενός χαρακτήρα με διαφορετικό τρόπο προσπαθώντας να πετύχουν διαφορετικούς στόχους </p>
 
-Do they succeed in achieving their purpose?
-	-
+<h3> Do they succeed in achieving their purpose?</h3>
+<p> - </p>
 
-7.7. What is the project’s business model?
-       Δεν έχουμε κάτι τέτοιο
-
-
-7.8. Revenue-wise, was the project successful? Why?
-       Είναι  Πανεπιστημιακό project οπότε δεν έχει έσοδα. Ο μόνος τρόπος να αποκτήσει θα ήταν ίσως μέσα από κάποιον διαγωνισμό.
+<h3> 7.7. What is the project’s business model? </h3>
+<p> Δεν έχουμε κάτι τέτοιο </p>
 
 
-8. Engagement 
-8.1. Through what point of view (PoV does the VUP experience this world: first-person, second-person, third-person, or a mixture of them? 
-        Σε 3ο πρόσωπο, δεν είναι ούτε από τα μάτια του χαρακτήρα αλλά ούτε των χρηστών.
-α 
-
-8.2. What role does the VUP play in this project?
-Το βλέπουμε σαν εξωτερικοί παρατηρητές που ακολουθούν τη πορεία του αναπτήρα ανάμεσα από τους διαφορετικούς χρήστες και τα διαφορετικά πλαίσια χρήσης 
-
-8.3. How the project keeps the VUP engaged? 
-      Δεν ξέρουμε ακόμα αν θα έχει μουσική, θα ακούγονται σίγουρα οι εξωτερικοί ήχοι ανάλογα με το περιβάλλον. Θα είναι μια αρκετά ρεαλιστική προσέγγιση, ίσως μπει κάποιο πολύ μικρό φανταστικό στοιχείο. 
-
-8.4. What are the mechanisms of interaction in this project? 
-       Δεν υπάρχει κάποια παραπάνω αλληλεπίδραση ο θεατής πέρα από το οπτικό
-
-8.5. Is there also participation involved in the project? If so, how can the VUP participate in the open system?
-        Δεν υπάρχει καμία συμμετοχή στο κομμάτι της ταινίας
-8.6. Does the project work as cultural attractor/activator? 
-       Όχι
-
-8.7. How does the VUP affect the outcome? What do they add to the storyworld?
-       Δεν έχουν τη δυνατότητα να επηρεάσουν το τελικό αποτέλεσμα της ταινίας
-
-8.8. Are there UGC related to the story (parodies, recaps, mash-ups, fan communities, etc.)? 
-       Η συγκεκριμένη ιστορία δεν συσχετίζεται με κάτι άλλο
-
-8.9. Does the project offer the VUP the possibility of immersion into the storyworld?
-       Όχι, εκτός αν ο θεατής ο ίδιος ταυτιστεί με κάποια από τις μικρες ιστορίες/ καταστάσεις που θα παρουσιαστουν κατα τη διάρκεια της ταινίας 
-
-8.10. Does the project offer the VUP the possibility to take away elements of the story and incorporate them into everyday life? 
-        Είναι βασισμένο στην καθημερινότητα αλλά δεν δείχνει κάποια πληροφορία εκπαιδευτικού τύπου που μαθαίνει ο θεατής κάτι καινούργιο για να το εφαρμόσει στη πραγματική του ζωή
-
-8.11. Is there an important goal that the VUP is trying to accomplish in the project?
-         Δυστυχώς δεν υπάρχει κάποιος στόχος που να απευθύνεται στους θεατές 
-
-8.12. What will make the VUP want to spend time accomplishing this Goal?
-         Δικός μας στόχος είναι ο θεατής να ευχαριστηθεί τη ταινία 
-
-8.13. What adds tension to the experience? Are there any ticking Clocks?
-         Ίσως σε κάποια σκηνή χαλάσει ο αναπτήρας και αντικατασταθεί ή ίσως “εγκαταλειφθεί” τύπου να ξεμείνει για μέρες στο δρόμο 
+<h3> 7.8. Revenue-wise, was the project successful? Why?</h3>
+<p> Είναι  Πανεπιστημιακό project οπότε δεν έχει έσοδα. Ο μόνος τρόπος να αποκτήσει θα ήταν ίσως μέσα από κάποιον διαγωνισμό.</p>
 
 
-8.14. Is there a system of rewards and penalties? 
-         Όχι
+<h2> 8. Engagement </h2>
+<h3> 8.1. Through what point of view (PoV does the VUP experience this world: first-person, second-person, third-person, or a mixture of them? </h3>
+	<p>Σε 3ο πρόσωπο, δεν είναι ούτε από τα μάτια του χαρακτήρα αλλά ούτε των χρηστών.</p>
+
+<h3> 8.2. What role does the VUP play in this project?</h3>
+<p>Το βλέπουμε σαν εξωτερικοί παρατηρητές που ακολουθούν τη πορεία του αναπτήρα ανάμεσα από τους διαφορετικούς χρήστες και τα διαφορετικά πλαίσια χρήσης.</p>
+
+<h3> 8.3. How the project keeps the VUP engaged? </h3>
+<p> Δεν ξέρουμε ακόμα αν θα έχει μουσική, θα ακούγονται σίγουρα οι εξωτερικοί ήχοι ανάλογα με το περιβάλλον. Θα είναι μια αρκετά ρεαλιστική προσέγγιση, ίσως μπει κάποιο πολύ μικρό φανταστικό στοιχείο. </p>
+
+<h3> 8.4. What are the mechanisms of interaction in this project? </h3> 
+<p> Δεν υπάρχει κάποια παραπάνω αλληλεπίδραση ο θεατής πέρα από το οπτικό</p>
+
+<h3> 8.5. Is there also participation involved in the project? If so, how can the VUP participate in the open system?</h3>
+<p> Δεν υπάρχει καμία συμμετοχή στο κομμάτι της ταινίας</p>
+	
+<h3> 8.6. Does the project work as cultural attractor/activator? <h3>
+<p> Όχι</p>
+
+<h3> 8.7. How does the VUP affect the outcome? What do they add to the storyworld?</h3>
+<p> Δεν έχουν τη δυνατότητα να επηρεάσουν το τελικό αποτέλεσμα της ταινίας</p>
+
+<h3> 8.8. Are there UGC related to the story (parodies, recaps, mash-ups, fan communities, etc.)? </h3>
+<p> Η συγκεκριμένη ιστορία δεν συσχετίζεται με κάτι άλλο</p> 
+
+<h3> 8.9. Does the project offer the VUP the possibility of immersion into the storyworld?</h3>
+<p> Όχι, εκτός αν ο θεατής ο ίδιος ταυτιστεί με κάποια από τις μικρες ιστορίες/ καταστάσεις που θα παρουσιαστουν κατα τη διάρκεια της ταινίας </p>
+
+<h3> 8.10. Does the project offer the VUP the possibility to take away elements of the story and incorporate them into everyday life? </h3>
+<p> Είναι βασισμένο στην καθημερινότητα αλλά δεν δείχνει κάποια πληροφορία εκπαιδευτικού τύπου που μαθαίνει ο θεατής κάτι καινούργιο για να το εφαρμόσει στη πραγματική του ζωή </p>
+
+<h3> 8.11. Is there an important goal that the VUP is trying to accomplish in the project?</h3>
+<p> Δυστυχώς δεν υπάρχει κάποιος στόχος που να απευθύνεται στους θεατές </p>
+
+<h3> 8.12. What will make the VUP want to spend time accomplishing this Goal?</h3>
+<p> Δικός μας στόχος είναι ο θεατής να ευχαριστηθεί τη ταινία </p>
+
+<h3> 8.13. What adds tension to the experience? Are there any ticking Clocks? </h3>
+<p> Ίσως σε κάποια σκηνή χαλάσει ο αναπτήρας και αντικατασταθεί ή ίσως “εγκαταλειφθεί” τύπου να ξεμείνει για μέρες στο δρόμο </p>
 
 
-9. Structure 
-9.1. When did the transmediation begin? Is it a proactive or retroactive TS project? 
-       Δεν είναι ούτε προληπτικό ούτε αναδρομικό. Γενικά θα υπάρχουν 2 μέσα για να αποδώσουμε την ιστορία: η ταινια + το βιβλιαρακι
+<h3> 8.14. Is there a system of rewards and penalties? </h3>
+<p> Όχι </p>
 
-9.2. Is it possible to identify any consequences for the project caused by the fact that this is either a pro-active or a retroactive transmedia story?
-       Δεν πιστεύουμε ότι υπάρχουν επιπτώσεις 
+<h2> 9. Structure </h2>
+	<h3> 9.1. When did the transmediation begin? Is it a proactive or retroactive TS project? </h3>
+      <p> Δεν είναι ούτε προληπτικό ούτε αναδρομικό. Γενικά θα υπάρχουν 2 μέσα για να αποδώσουμε την ιστορία: η ταινια + το βιβλιαρακι</p>
 
-9.3. Is this project closer to a transmedia franchise, a portmanteau transmedia story, or a complex transmedia experience? 
+<h3> 9.2. Is it possible to identify any consequences for the project caused by the fact that this is either a pro-active or a retroactive transmedia story?</h3>
+	<p> Δεν πιστεύουμε ότι υπάρχουν επιπτώσεις </p>
 
-9.4. Can each extension work as an independent entry point for the Story? 
-       Ναι και η ταινία και το βιβλιαράκι μπορούν να λειτουργήσουν μεμονωμένα και από όποιο και να ξεκινήσει κάποιος καταλαβαίνει τη βασική ιστορία. Θα έχουν και κοινά σημεία που θα βοηθήσουν στη σύνδεση μεταξύ τους. 
+<h3> 9.3. Is this project closer to a transmedia franchise, a portmanteau transmedia story, or a complex transmedia experience? </h3>
 
-9.5. What are/were possible endpoints of the project?
-       Δεν πιστεύουμε ότι υπάρχει κατάλληλος τρόπος, είτε με το βιβλιαράκι είτε με την ταινία ο θεατής/ αναγνώστης θα έχει καλή εμπειρία. Η ταινία είναι πιο παραστατική οπότε ίσως έχει καλύτερη εμπειρία ο χρήστης σε σχέση με το βιβλιαράκι που θέλουμε να είναι πιο χιουμοριστικό/ fun χαρακτήρα
+<h3> 9.4. Can each extension work as an independent entry point for the Story? </h3>
+<p> Ναι και η ταινία και το βιβλιαράκι μπορούν να λειτουργήσουν μεμονωμένα και από όποιο και να ξεκινήσει κάποιος καταλαβαίνει τη βασική ιστορία. Θα έχουν και κοινά σημεία που θα βοηθήσουν στη σύνδεση μεταξύ τους. </p>
 
+<h3> 9.5. What are/were possible endpoints of the project?</h3>
+<p> Δεν πιστεύουμε ότι υπάρχει κατάλληλος τρόπος, είτε με το βιβλιαράκι είτε με την ταινία ο θεατής/ αναγνώστης θα έχει καλή εμπειρία. Η ταινία είναι πιο παραστατική οπότε ίσως έχει καλύτερη εμπειρία ο χρήστης σε σχέση με το βιβλιαράκι που θέλουμε να είναι πιο χιουμοριστικό/ fun χαρακτήρα </p>
 
-9.6. How is the project structured? What are the major units of Organisation?
-       Είμαστε ομάδα 5 ατόμων και θα προσπαθήσουμε να χωρίσουμε τις δουλειές ίσα ανάλογα με τις δυνατότητες και τις γνώσεις του καθενός
+<h3> 9.6. How is the project structured? What are the major units of Organisation?</h3> 
+<p> Είμαστε ομάδα 5 ατόμων και θα προσπαθήσουμε να χωρίσουμε τις δουλειές ίσα ανάλογα με τις δυνατότητες και τις γνώσεις του καθενός</p>
 
-9.7. How could a map of the story-world be presented?
-       ? QR ?
+<h3> 9.7. How could a map of the story-world be presented?</h3>
+<p> ? QR ?</p>
 
+<h2> Aesthetics </h2>
+<h3> 10.1. What kinds of visuals are being used (animation, video, graphics, a mix) in the project?</h3>
+<p> Για τη ταινία μικρού μήκους θα χρησιμοποιήσουμε είτε τα κινητά μας είτε ψηφιακή κάμερα αν βρούμε διαθέσιμη. Για το βιβλιαράκι θα δημιουργήσουμε illustrations οι ίδιοι είτε ψηφιακά είτε με σχέδια στο χέρι. τα κειμενάκια θα τα γράψουμε εμείς </p>
 
-10. Aesthetics 
-10.1. What kinds of visuals are being used (animation, video, graphics, a mix) in the project?
-         Για τη ταινία μικρού μήκους θα χρησιμοποιήσουμε είτε τα κινητά μας είτε ψηφιακή κάμερα αν βρούμε διαθέσιμη          Για το βιβλιαράκι θα δημιουργήσουμε illustrations οι ίδιοι είτε ψηφιακά είτε με σχέδια στο χέρι. τα κειμενάκια θα τα γράψουμε εμείς
+<h3> 10.2. Is the overall look realistic or a fantasy environment?</h3>
+<p> Όσον αφορά τη ταινία το περιβάλλον θα είναι ρεαλιστικό. Στο βιβλιαράκι μπορεί να βάλουμε πιο φανταστικά και χιουμοριστικά στοιχεία σε συνδιασμό με ρεαλιστικά</p>
 
-10.2. Is the overall look realistic or a fantasy environment?
-         Όσον αφορά τη ταινία το περιβάλλον θα είναι ρεαλιστικό 
-Στο βιβλιαράκι μπορεί να βάλουμε πιο φανταστικά και χιουμοριστικά στοιχεία σε συνδιασμό με ρεαλιστικά
+<h3> 10.3. Is it possible to identify specific design styles in the project? </h3>
+<p>  Προς το παρόν δεν έχουμε συγκεκριμένο στυλ πρέπει πρώτα να πειραματισούμε και να αποφασίσουμε τι μας ταιρίαζει </p>
 
-10.3. Is it possible to identify specific design styles in the project?
-         Προς το παρόν δεν έχουμε συγκεκριμένο στυλ πρέπει πρώτα να πειραματισούμε και να αποφασίσουμε τι μας ταιρίαζει
-
-10.4. How does audio work in this project? Is there ambient sound (rain, wind, traffic noises, etc.), sound effects, music, and so forth?
-        Κυρίως ήχοι από το περιβάλλον (αέρας, νερό, άτομα να μιλάνε στο backround…)
-ίσως προσθέσουμε και μουσική αν δούμε ότι ταιριάζει με το περιεχόμενο της ταινίας
+<h3> 10.4. How does audio work in this project? Is there ambient sound (rain, wind, traffic noises, etc.), sound effects, music, and so forth?</h3>
+<p>  Κυρίως ήχοι από το περιβάλλον (αέρας, νερό, άτομα να μιλάνε στο backround…)ίσως προσθέσουμε και μουσική αν δούμε ότι ταιριάζει με το περιεχόμενο της ταινίας</p>
 
 
 
